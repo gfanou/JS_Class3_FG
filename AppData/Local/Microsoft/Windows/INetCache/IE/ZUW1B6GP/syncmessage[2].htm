@@ -1,0 +1,86 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head1"><title>
+	SyncMessage
+</title><div id="divScriptSetControl">
+
+    <script type="text/vbscript" src="ScriptHandler.ashx?sn=PatchAMIndexUrlScripts&ct=text/vbscript&h=1194360387"></script></div>
+    <script type="text/vbscript">
+        Function StartUp(startupType)   
+            Dim iLocale
+            iLocale = GetLocale()
+            
+            If iLocale <> 1033 Then
+                SetLocale(1033)
+            End If 
+        
+            Select case startupType
+             case "patchamiurl"
+                Call PatchAMIndexUrl()
+             case "smessage"
+                Call Main()
+            End select
+            
+            If iLocale <> 1033 Then
+                SetLocale(iLocale)
+            End If 
+        End Function
+    </script>
+</head>
+<body >
+    <form method="post" action="./syncmessage.aspx" id="frmSyncMessage">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY5MzU5NDI4OWRkEoT0latGKN/RWtdqDw9bTK7RB28=" />
+</div>
+
+<script type='text/vbscript'>StartUp("patchamiurl")</script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8257BE2E" />
+</div>
+        <input name="hdnClientRequestXML" type="hidden" id="hdnClientRequestXML" />
+        <input name="hdnCurrentSMVersion" type="hidden" id="hdnCurrentSMVersion" />
+        <input name="hdnMaintFlagValue" type="hidden" id="hdnMaintFlagValue" />
+        <input name="hdnAffid" type="hidden" id="hdnAffid" />
+        <input name="hdnFilterXML" type="hidden" id="hdnFilterXML" />
+        <input name="hdnLCID" type="hidden" id="hdnLCID" />
+        <input name="hdnNumDbHit" type="hidden" id="hdnNumDbHit" />
+        <input name="hdnApplicationVersion" type="hidden" id="hdnApplicationVersion" />
+        <input name="hdnCurrentUTCTime" type="hidden" id="hdnCurrentUTCTime" />
+        <input name="hdnCurrentUTCTimeInSeconds" type="hidden" id="hdnCurrentUTCTimeInSeconds" />
+        <input name="hdnIptValidTill" type="hidden" id="hdnIptValidTill" />
+        <input name="hdnMessageCount" type="hidden" id="hdnMessageCount" />
+        <input name="hdnWindowsId" type="hidden" id="hdnWindowsId" />
+        <input name="hdnHardwareId" type="hidden" id="hdnHardwareId" />
+        <input name="hdnPkgId" type="hidden" id="hdnPkgId" />
+        <input name="hdnThreatLevel" type="hidden" id="hdnThreatLevel" />
+        <input name="hdnUICntPath" type="hidden" id="hdnUICntPath" />
+        <input name="hdnUICntArgs" type="hidden" id="hdnUICntArgs" />
+        <input name="hdnAffIdSwap" type="hidden" id="hdnAffIdSwap" />
+        <input name="hdnSAFUICntPath" type="hidden" id="hdnSAFUICntPath" />
+        <input name="hdnSAFUICntArgs" type="hidden" id="hdnSAFUICntArgs" />
+        <input type="hidden" id="hdnreqfrm" name="hdnreqfrm" value='' />
+        <input name="hdnTelemetryFlow" type="hidden" id="hdnTelemetryFlow" />
+        <input name="hdnTelemetryConfigOn" type="hidden" id="hdnTelemetryConfigOn" />
+        <input name="hdnAffSitePkgConfig" type="hidden" id="hdnAffSitePkgConfig" />
+        <input name="hdnDeviceIdCookieExists" type="hidden" id="hdnDeviceIdCookieExists" />
+        <input name="hdnEnableIpt" type="hidden" id="hdnEnableIpt" />
+        <input name="hdnIsIptUpdateEnabled" type="hidden" id="hdnIsIptUpdateEnabled" />
+        <input name="hdnSegmentConfig" type="hidden" id="hdnSegmentConfig" />
+        <input name="hdnEnableIPTbySegment" type="hidden" id="hdnEnableIPTbySegment" />
+        <input name="hdnSegmentMatch" type="hidden" id="hdnSegmentMatch" />
+    </form>
+    <script type="text/javascript">
+        var viewStateObj = document.getElementById("__VIEWSTATE");
+        if (viewStateObj != null) {
+            viewStateObj.value = "";
+        }
+
+    </script>
+</body>
+</html>

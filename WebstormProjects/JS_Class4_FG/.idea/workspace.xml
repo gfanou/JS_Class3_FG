@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="544d329f-f087-4bd6-a259-da5b547d26e1" name="Default Changelist" comment="commit in it">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ForegroundAppUsage.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ForegroundAppUsage.csv" afterDir="false" />
       <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/InputActivity.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/InputActivity.csv" afterDir="false" />
       <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ProcessLog.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ProcessLog.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/Wifi_Activity.xml" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/Wifi_Activity.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/keyValueStorage.db-wal" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/keyValueStorage.db-wal" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/networkScans.db-wal" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/networkScans.db-wal" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/xdr.db-wal" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/xdr.db-wal" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/XboxLive/AuthStateCache.dat" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Microsoft/XboxLive/AuthStateCache.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603985915927</updated>
-      <workItem from="1603985917000" duration="25076000" />
+      <workItem from="1603985917000" duration="27414000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1604130183419</created>
@@ -74,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604130599397</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit in it">
+      <created>1604130841613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604130841613</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,18 +103,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="282" y="108" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603987798848" />
-    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1604130718618">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1604133768290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604130718618" />
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604133768290" />
     <state x="465" y="261" key="Github.CreateGistDialog" timestamp="1604129646814">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="465" y="261" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1604129646814" />
-    <state x="513" y="239" key="Github.ShareDialog" timestamp="1604129780724">
+    <state x="513" y="239" width="581" height="203" key="Github.ShareDialog" timestamp="1604133744818">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="513" y="239" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1604129780724" />
+    <state x="513" y="239" width="581" height="203" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1604133744818" />
     <state x="178" y="43" key="RollbackChangesDialog" timestamp="1604130146951">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -110,10 +123,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603987327033" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604130604665">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604130923286">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604130604665" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604130923286" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604131346342">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1604131346342" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603987146743">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

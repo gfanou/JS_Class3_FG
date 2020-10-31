@@ -56,4 +56,23 @@
       <wifiData ssid="MySpectrumWiFiea-5G" rssi="100" bConnected="False" />
     </WifiList>
   </NetWorkInfo>
+  <NetWorkInfo timestamp="2020-10-31T02:59:04">
+    <WifiList>
+      <wifiData ssid="fanoug" rssi="100" bConnected="True" />
+      <wifiData ssid="MySpectrumWiFi90-2G" rssi="90" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi50-5G" rssi="10" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi88-5G" rssi="35" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi88-2G" rssi="50" bConnected="False" />
+      <wifiData ssid="SpectrumSetup-00" rssi="100" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFib0-2G" rssi="100" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi38-2G" rssi="90" bConnected="False" />
+      <wifiData ssid="Lissette." rssi="65" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi4B-2G" rssi="65" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFiea-2G" rssi="100" bConnected="False" />
+      <wifiData ssid="Angelo Medina (guest)" rssi="100" bConnected="False" />
+      <wifiData ssid="Clark" rssi="100" bConnected="False" />
+      <wifiData ssid="Angelo Medina" rssi="100" bConnected="False" />
+      <wifiData ssid="OhNoSheDont" rssi="100" bConnected="False" />
+    </WifiList>
+  </NetWorkInfo>
 </Root>

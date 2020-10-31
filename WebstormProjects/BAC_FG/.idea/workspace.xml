@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f36600-0c9b-4b8b-880e-223585e98ac2" name="Default Changelist" comment="" />
+    <list default="true" id="02f36600-0c9b-4b8b-880e-223585e98ac2" name="Default Changelist" comment="initial commit">
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/Credentials/5E87145A06E82AC1E841A450EC348275" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ForegroundAppUsage.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ForegroundAppUsage.csv" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/InputActivity.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/InputActivity.csv" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ProcessLog.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ProcessLog.csv" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/Wifi_Activity.xml" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/Wifi_Activity.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/keyValueStorage.db-wal" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/keyValueStorage.db-wal" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/networkScans.db-wal" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/networkScans.db-wal" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/edge_shutdown_ms.txt" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/edge_shutdown_ms.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/XboxLive/AuthStateCache.dat" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Microsoft/XboxLive/AuthStateCache.dat" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/TokenBroker/Cache/875a17ec040075f3e3c835d91d9d3755cd980ed7.tbres" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/TokenBroker/Cache/875a17ec040075f3e3c835d91d9d3755cd980ed7.tbres" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JS_Class4_FG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JS_Class4_FG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JS_Class4_FG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JS_Class4_FG/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
   <component name="ProjectId" id="1jeaVgxyyJfkHhstoGoBvPYaQnO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -44,29 +61,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604167036404</updated>
-      <workItem from="1604167037513" duration="18431000" />
+      <workItem from="1604167037513" duration="18781000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1604185756527</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604185756527</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604170883534">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1604170883534" />
-    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1604185482389">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1604185582417">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604185482389" />
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604185582417" />
     <state x="465" y="261" key="Github.CreateGistDialog" timestamp="1604185422274">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="465" y="261" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1604185422274" />
-    <state x="520" y="239" width="441" height="203" key="Github.ShareDialog" timestamp="1604185298898">
+    <state x="520" y="239" width="441" height="203" key="Github.ShareDialog" timestamp="1604185838309">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="520" y="239" width="441" height="203" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1604185298898" />
+    <state x="520" y="239" width="441" height="203" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1604185838309" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604185789738">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604185789738" />
   </component>
 </project>

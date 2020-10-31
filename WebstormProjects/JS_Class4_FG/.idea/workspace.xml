@@ -4,18 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544d329f-f087-4bd6-a259-da5b547d26e1" name="Default Changelist" comment="commit in it">
+    <list default="true" id="544d329f-f087-4bd6-a259-da5b547d26e1" name="Default Changelist" comment="commitinit">
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/Credentials/5E87145A06E82AC1E841A450EC348275" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAC_FG/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BAC_FG/style.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ForegroundAppUsage.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ForegroundAppUsage.csv" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/InputActivity.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/InputActivity.csv" afterDir="false" />
       <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ProcessLog.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ProcessLog.csv" afterDir="false" />
-      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/keyValueStorage.db-shm" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/keyValueStorage.db-shm" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/Wifi_Activity.xml" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/Wifi_Activity.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/keyValueStorage.db-wal" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/keyValueStorage.db-wal" afterDir="false" />
-      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/networkScans.db-shm" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/networkScans.db-shm" afterDir="false" />
       <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/networkScans.db-wal" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/networkScans.db-wal" afterDir="false" />
-      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/xdr.db-shm" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/xdr.db-shm" afterDir="false" />
-      <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/xdr.db-wal" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoWiFiSecurityPlugin/xdr.db-wal" afterDir="false" />
-      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/Credentials/5E87145A06E82AC1E841A450EC348275" beforeDir="false" />
-      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/2fcae1235329e8ce4e35572ffd5e55862b4e4f9a.tbres" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/2fcae1235329e8ce4e35572ffd5e55862b4e4f9a.tbres" afterDir="false" />
-      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/6eb4d358aff1045fb9ec9fd85790fc6e571176d2.tbres" beforeDir="false" />
-      <change beforePath="$USER_HOME$/AppData/Local/Packages/Microsoft.Office.Desktop_8wekyb3d8bbwe/LocalCache/Local/Microsoft/Office/16.0/OfficeFileCache/Cadence/0/runtimeProperties.cadence" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Packages/Microsoft.Office.Desktop_8wekyb3d8bbwe/LocalCache/Local/Microsoft/Office/16.0/OfficeFileCache/Cadence/0/runtimeProperties.cadence" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/edge_shutdown_ms.txt" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/edge_shutdown_ms.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/XboxLive/AuthStateCache.dat" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Microsoft/XboxLive/AuthStateCache.dat" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/TokenBroker/Cache/875a17ec040075f3e3c835d91d9d3755cd980ed7.tbres" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/TokenBroker/Cache/875a17ec040075f3e3c835d91d9d3755cd980ed7.tbres" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603985915927</updated>
-      <workItem from="1603985917000" duration="29056000" />
+      <workItem from="1603985917000" duration="38764000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1604130183419</created>
@@ -156,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604135368412</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit in it">
+      <created>1604161894063</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1604161894063</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit in it now">
+      <created>1604164245039</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1604164245039</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,9 +182,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="initial commit" />
-    <MESSAGE value="commit in it now" />
     <MESSAGE value="commit in it" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit in it" />
+    <MESSAGE value="commit in it now" />
+    <MESSAGE value="commitinit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commitinit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="393" y="165" key="#Notifications" timestamp="1604135312101">
@@ -190,10 +208,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="465" y="261" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1604129646814" />
-    <state x="513" y="239" width="581" height="203" key="Github.ShareDialog" timestamp="1604133744818">
+    <state x="513" y="239" width="581" height="203" key="Github.ShareDialog" timestamp="1604165091098">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="513" y="239" width="581" height="203" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1604133744818" />
+    <state x="513" y="239" width="581" height="203" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1604165091098" />
     <state x="178" y="43" key="RollbackChangesDialog" timestamp="1604134838675">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -202,10 +220,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1604134806318" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604135389484">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604164307036">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604135389484" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604164307036" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604131346342">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

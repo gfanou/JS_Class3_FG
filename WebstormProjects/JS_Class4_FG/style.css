@@ -1,0 +1,32 @@
+body
+{
+    margin: 20px;
+    padding: 20px;
+    background-color: burlywood;
+}
+
+label {
+    float: left;
+    width: 270px;
+    text-align: justify;
+    margin-top: 12px;
+    clear: left;
+
+}
+input, textarea {margin-top: 12px;}
+
+#calcTotalFee {
+        margin-top: 12px;
+        background-color: #ccc;
+}
+#calcCostOfPizza {
+    margin-top: 12px;
+    background-color: #ccc;
+
+}
+#costOutput {
+    font-family: "Arial Black";
+}
+#feeOutput {
+    font-family: "Arial Black";
+}

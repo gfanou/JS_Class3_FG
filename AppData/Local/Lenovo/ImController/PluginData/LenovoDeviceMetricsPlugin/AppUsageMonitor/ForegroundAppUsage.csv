@@ -1,21 +1,132 @@
-2020-10-27T23:58:05.9,webstorm64.exe,WebStorm
-2020-10-28T00:04:23.7,chrome.exe,Google Chrome
-2020-10-28T00:05:21.23,explorer.exe,Windows Explorer
-2020-10-28T00:05:31.82,chrome.exe,Google Chrome
-2020-10-28T00:08:50.39,explorer.exe,Windows Explorer
-2020-10-28T00:09:01.58,chrome.exe,Google Chrome
-2020-10-28T00:10:05.91,explorer.exe,Windows Explorer
-2020-10-28T00:10:08.88,webstorm64.exe,WebStorm
-2020-10-28T00:10:19.61,chrome.exe,Google Chrome
-2020-10-28T00:10:37.86,explorer.exe,Windows Explorer
-2020-10-28T00:10:41.45,webstorm64.exe,WebStorm
-2020-10-28T00:13:10.43,chrome.exe,Google Chrome
-2020-10-28T00:14:11.77,explorer.exe,Windows Explorer
-2020-10-28T00:14:19.59,webstorm64.exe,WebStorm
-2020-10-28T00:15:40.91,chrome.exe,Google Chrome
-2020-10-28T00:16:06.59,explorer.exe,Windows Explorer
-2020-10-28T00:16:11,webstorm64.exe,WebStorm
-2020-10-28T00:17:25.64,chrome.exe,Google Chrome
-2020-10-28T00:18:35.93,explorer.exe,Windows Explorer
-2020-10-28T00:18:40.22,webstorm64.exe,WebStorm
-2020-10-28T00:26:36.16,chrome.exe,Google Chrome
+2020-10-31T00:09:38.5,McUICnt.exe,McAfee LiveSafe
+2020-10-31T00:09:39.06,webstorm64.exe,WebStorm
+2020-10-31T00:15:48.44,explorer.exe,Windows Explorer
+2020-10-31T00:15:50.21,webstorm64.exe,WebStorm
+2020-10-31T00:16:22.41,explorer.exe,Windows Explorer
+2020-10-31T00:16:23.67,webstorm64.exe,WebStorm
+2020-10-31T00:23:39.06,chrome.exe,Google Chrome
+2020-10-31T00:26:21.59,explorer.exe,Windows Explorer
+2020-10-31T00:26:25.48,webstorm64.exe,WebStorm
+2020-10-31T00:44:16.39,chrome.exe,Google Chrome
+2020-10-31T00:46:31.05,explorer.exe,Windows Explorer
+2020-10-31T00:46:35.72,webstorm64.exe,WebStorm
+2020-10-31T00:47:07.09,explorer.exe,Windows Explorer
+2020-10-31T00:47:08.9,webstorm64.exe,WebStorm
+2020-10-31T00:49:10.59,chrome.exe,Google Chrome
+2020-10-31T00:49:18.53,explorer.exe,Windows Explorer
+2020-10-31T00:49:23.08,webstorm64.exe,WebStorm
+2020-10-31T00:49:51.34,chrome.exe,Google Chrome
+2020-10-31T01:09:05.06,explorer.exe,Windows Explorer
+2020-10-31T01:09:08.46,webstorm64.exe,WebStorm
+2020-10-31T01:10:16.65,chrome.exe,Google Chrome
+2020-10-31T01:10:44.88,explorer.exe,Windows Explorer
+2020-10-31T01:10:48.18,webstorm64.exe,WebStorm
+2020-10-31T01:11:21.05,chrome.exe,Google Chrome
+2020-10-31T01:11:35.84,explorer.exe,Windows Explorer
+2020-10-31T01:12:09.02,webstorm64.exe,WebStorm
+2020-10-31T01:12:25.05,chrome.exe,Google Chrome
+2020-10-31T01:13:49,explorer.exe,Windows Explorer
+2020-10-31T01:13:55.72,webstorm64.exe,WebStorm
+2020-10-31T01:14:41.39,chrome.exe,Google Chrome
+2020-10-31T01:15:13.93,explorer.exe,Windows Explorer
+2020-10-31T01:15:20.02,webstorm64.exe,WebStorm
+2020-10-31T01:15:41.22,chrome.exe,Google Chrome
+2020-10-31T01:15:58.33,explorer.exe,Windows Explorer
+2020-10-31T01:16:01.58,webstorm64.exe,WebStorm
+2020-10-31T01:16:13.78,chrome.exe,Google Chrome
+2020-10-31T01:16:28.64,explorer.exe,Windows Explorer
+2020-10-31T01:16:32.42,webstorm64.exe,WebStorm
+2020-10-31T01:17:24.95,chrome.exe,Google Chrome
+2020-10-31T01:17:30.97,explorer.exe,Windows Explorer
+2020-10-31T01:17:34.33,webstorm64.exe,WebStorm
+2020-10-31T01:18:04.32,chrome.exe,Google Chrome
+2020-10-31T01:18:31.09,explorer.exe,Windows Explorer
+2020-10-31T01:18:34.2,webstorm64.exe,WebStorm
+2020-10-31T01:19:29.56,chrome.exe,Google Chrome
+2020-10-31T01:19:36.8,explorer.exe,Windows Explorer
+2020-10-31T01:19:43.85,webstorm64.exe,WebStorm
+2020-10-31T01:20:41.42,chrome.exe,Google Chrome
+2020-10-31T01:21:23.69,explorer.exe,Windows Explorer
+2020-10-31T01:21:27.18,webstorm64.exe,WebStorm
+2020-10-31T01:21:53.89,chrome.exe,Google Chrome
+2020-10-31T01:22:00.78,explorer.exe,Windows Explorer
+2020-10-31T01:22:04.98,webstorm64.exe,WebStorm
+2020-10-31T01:22:28.13,chrome.exe,Google Chrome
+2020-10-31T01:22:44.11,explorer.exe,Windows Explorer
+2020-10-31T01:22:47.28,webstorm64.exe,WebStorm
+2020-10-31T01:23:38.37,chrome.exe,Google Chrome
+2020-10-31T01:23:51.06,explorer.exe,Windows Explorer
+2020-10-31T01:23:54.26,webstorm64.exe,WebStorm
+2020-10-31T01:24:10.93,chrome.exe,Google Chrome
+2020-10-31T01:24:28.21,explorer.exe,Windows Explorer
+2020-10-31T01:24:31.52,webstorm64.exe,WebStorm
+2020-10-31T01:25:09.36,chrome.exe,Google Chrome
+2020-10-31T01:25:30.37,explorer.exe,Windows Explorer
+2020-10-31T01:25:33.81,webstorm64.exe,WebStorm
+2020-10-31T01:25:53.5,explorer.exe,Windows Explorer
+2020-10-31T01:25:57.09,webstorm64.exe,WebStorm
+2020-10-31T01:25:59.51,chrome.exe,Google Chrome
+2020-10-31T01:26:58.58,explorer.exe,Windows Explorer
+2020-10-31T01:27:04.58,webstorm64.exe,WebStorm
+2020-10-31T01:28:18.47,chrome.exe,Google Chrome
+2020-10-31T01:38:47.67,explorer.exe,Windows Explorer
+2020-10-31T01:38:52.96,webstorm64.exe,WebStorm
+2020-10-31T01:39:00.36,chrome.exe,Google Chrome
+2020-10-31T01:39:23.73,explorer.exe,Windows Explorer
+2020-10-31T01:39:28.28,webstorm64.exe,WebStorm
+2020-10-31T01:47:06.09,chrome.exe,Google Chrome
+2020-10-31T01:47:51.58,explorer.exe,Windows Explorer
+2020-10-31T01:48:07.12,webstorm64.exe,WebStorm
+2020-10-31T01:49:41.78,chrome.exe,Google Chrome
+2020-10-31T01:50:02.21,explorer.exe,Windows Explorer
+2020-10-31T01:50:06.27,webstorm64.exe,WebStorm
+2020-10-31T01:52:01.71,chrome.exe,Google Chrome
+2020-10-31T01:52:54.93,explorer.exe,Windows Explorer
+2020-10-31T01:52:59.49,webstorm64.exe,WebStorm
+2020-10-31T01:54:08.53,chrome.exe,Google Chrome
+2020-10-31T01:55:51.17,explorer.exe,Windows Explorer
+2020-10-31T01:55:54.5,webstorm64.exe,WebStorm
+2020-10-31T01:59:38.52,chrome.exe,Google Chrome
+2020-10-31T02:00:07.98,explorer.exe,Windows Explorer
+2020-10-31T02:00:11.38,webstorm64.exe,WebStorm
+2020-10-31T02:02:06.09,chrome.exe,Google Chrome
+2020-10-31T02:02:23.77,explorer.exe,Windows Explorer
+2020-10-31T02:02:26.93,webstorm64.exe,WebStorm
+2020-10-31T02:02:48.1,chrome.exe,Google Chrome
+2020-10-31T02:03:27.78,explorer.exe,Windows Explorer
+2020-10-31T02:03:30.85,webstorm64.exe,WebStorm
+2020-10-31T02:03:56.99,chrome.exe,Google Chrome
+2020-10-31T02:04:09.41,explorer.exe,Windows Explorer
+2020-10-31T02:04:14.55,WINWORD.exe,Microsoft Word
+2020-10-31T02:04:49.46,explorer.exe,Windows Explorer
+2020-10-31T02:04:52.64,webstorm64.exe,WebStorm
+2020-10-31T02:06:40.8,chrome.exe,Google Chrome
+2020-10-31T02:07:01.25,explorer.exe,Windows Explorer
+2020-10-31T02:07:04.26,webstorm64.exe,WebStorm
+2020-10-31T02:08:07.84,chrome.exe,Google Chrome
+2020-10-31T02:08:28.03,explorer.exe,Windows Explorer
+2020-10-31T02:08:31.5,webstorm64.exe,WebStorm
+2020-10-31T02:08:35.99,explorer.exe,Windows Explorer
+2020-10-31T02:08:39.54,webstorm64.exe,WebStorm
+2020-10-31T02:08:42.27,explorer.exe,Windows Explorer
+2020-10-31T02:08:43.82,webstorm64.exe,WebStorm
+2020-10-31T02:10:13.4,chrome.exe,Google Chrome
+2020-10-31T02:10:26.11,explorer.exe,Windows Explorer
+2020-10-31T02:10:28.59,webstorm64.exe,WebStorm
+2020-10-31T02:10:53.6,chrome.exe,Google Chrome
+2020-10-31T02:11:54.92,explorer.exe,Windows Explorer
+2020-10-31T02:12:03.97,webstorm64.exe,WebStorm
+2020-10-31T02:12:56.23,chrome.exe,Google Chrome
+2020-10-31T02:13:02.79,explorer.exe,Windows Explorer
+2020-10-31T02:13:06.84,webstorm64.exe,WebStorm
+2020-10-31T02:13:52.02,chrome.exe,Google Chrome
+2020-10-31T02:13:58.4,explorer.exe,Windows Explorer
+2020-10-31T02:14:02.78,webstorm64.exe,WebStorm
+2020-10-31T02:14:27.14,chrome.exe,Google Chrome
+2020-10-31T02:15:26.58,explorer.exe,Windows Explorer
+2020-10-31T02:15:29.81,webstorm64.exe,WebStorm
+2020-10-31T02:16:32.08,explorer.exe,Windows Explorer
+2020-10-31T02:16:33.79,chrome.exe,Google Chrome
+2020-10-31T02:18:02.8,explorer.exe,Windows Explorer
+2020-10-31T02:18:06.15,webstorm64.exe,WebStorm
+2020-10-31T02:23:34.22,explorer.exe,Windows Explorer

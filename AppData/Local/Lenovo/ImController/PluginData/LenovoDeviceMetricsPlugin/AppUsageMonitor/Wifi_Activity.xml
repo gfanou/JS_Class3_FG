@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <NetWorkInfo timestamp="2020-10-31T00:59:04">
+    <WifiList>
+      <wifiData ssid="fanoug" rssi="100" bConnected="True" />
+      <wifiData ssid="MySpectrumWiFi90-2G" rssi="100" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi38-2G" rssi="100" bConnected="False" />
+      <wifiData ssid="ATTxpIn6VS" rssi="100" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi88-2G" rssi="70" bConnected="False" />
+      <wifiData ssid="SpectrumSetup-00" rssi="100" bConnected="False" />
+      <wifiData ssid="DIRECT-roku-932-05F769" rssi="35" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi88-5G" rssi="35" bConnected="False" />
+      <wifiData ssid="ATTrSvMeQs" rssi="10" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFib0-2G" rssi="80" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi53-2G" rssi="45" bConnected="False" />
+      <wifiData ssid="SpectrumSetup-F3" rssi="25" bConnected="False" />
+      <wifiData ssid="ATT8DPndbA_Guest" rssi="80" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi4B-2G" rssi="70" bConnected="False" />
+      <wifiData ssid="MrsBell2020" rssi="90" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi50-5G" rssi="14" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFiea-2G" rssi="100" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi7C-2G" rssi="20" bConnected="False" />
+      <wifiData ssid="OhNoSheDont" rssi="65" bConnected="False" />
+      <wifiData ssid="BUYUROWNWIFI" rssi="40" bConnected="False" />
+      <wifiData ssid="Angelo Medina (guest)" rssi="100" bConnected="False" />
+      <wifiData ssid="ATTB6IuEjA" rssi="100" bConnected="False" />
+      <wifiData ssid="Angelo Medina" rssi="65" bConnected="False" />
+      <wifiData ssid="ATTgjfiX5S" rssi="40" bConnected="False" />
+    </WifiList>
+  </NetWorkInfo>
+  <NetWorkInfo timestamp="2020-10-31T01:59:04">
+    <WifiList>
+      <wifiData ssid="fanoug" rssi="100" bConnected="True" />
+      <wifiData ssid="MySpectrumWiFi90-2G" rssi="65" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi88-5G" rssi="35" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi50-5G" rssi="15" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi38-2G" rssi="100" bConnected="False" />
+      <wifiData ssid="ATTxpIn6VS" rssi="100" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi88-2G" rssi="60" bConnected="False" />
+      <wifiData ssid="SpectrumSetup-00" rssi="100" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFib0-2G" rssi="100" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFiea-2G" rssi="100" bConnected="False" />
+      <wifiData ssid="SpectrumSetup-F3" rssi="20" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi4B-2G" rssi="70" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFi7C-2G" rssi="40" bConnected="False" />
+      <wifiData ssid="TC8717TAA" rssi="65" bConnected="False" />
+      <wifiData ssid="Wesley 55" rssi="20" bConnected="False" />
+      <wifiData ssid="Clark" rssi="100" bConnected="False" />
+      <wifiData ssid="Angelo Medina (guest)" rssi="90" bConnected="False" />
+      <wifiData ssid="Angelo Medina" rssi="90" bConnected="False" />
+      <wifiData ssid="ATT8DPndbA_Guest" rssi="100" bConnected="False" />
+      <wifiData ssid="MrsBell2020" rssi="100" bConnected="False" />
+      <wifiData ssid="ATTSvIvQNa" rssi="100" bConnected="False" />
+      <wifiData ssid="OhNoSheDont" rssi="100" bConnected="False" />
+      <wifiData ssid="DIRECT-D0-HP OfficeJet 3830" rssi="50" bConnected="False" />
+      <wifiData ssid="MySpectrumWiFiea-5G" rssi="100" bConnected="False" />
+    </WifiList>
+  </NetWorkInfo>
+</Root>

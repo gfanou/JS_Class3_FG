@@ -1,0 +1,43 @@
+
+label {
+    width: 12em;
+    display: block;
+    clear: both;
+    margin-bottom: 2px;
+}
+
+#weight {
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: "Times New Roman", Courier, monospace;
+    background-color: darkgrey;
+    padding: 20px;
+    margin: 20px;
+}
+
+.tablish {
+    display: table;
+}
+
+.cellish {
+    display: table-cell;
+    height: 65px;
+    vertical-align: top;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-top: thin gray dotted;
+    margin-top: 15px;
+}
+
+
+#calcMyBac{
+    margin-top: 15px;
+    background-color: yellowgreen;
+}
+
+#bacOutput {
+    font-family: "Arial Black";
+    text-align: match-parent;
+}

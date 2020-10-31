@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blood Alcohol Calculator</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<h1>Blood Alcohol Calculator</h1>
+
+    <div class="tablish">
+        <div class="cellish">
+            <label for="numberOfBeers">Number of Beers Drank </label>
+            <input type="number" id="numberOfBeers" >
+        </div>
+        <div class="cellish holder" id="beer">
+
+
+            <img src="img/garage-project-beer.jpg" height="80" width="70"/></div>
+            Notice: One beer has 0.54 oz of alcohol.
+    </div>
+
+    <div class="tablish">
+
+        <div class="cellish">
+            <label for="numberOfWine">Glasses of Wine Consumed</label>
+            <input type="number"  id="numberOfWine" >
+        </div>
+        <div class="cellish holder" id="wine">
+
+            <img src="img/Wine_Bottle_Mockup_2.jpg" height="80" width="70"/></div>
+            Notice: One glass of wine has 0.60 oz of alcohol.
+    </div>
+
+
+    <div class="tablish">
+        <div class="cellish">
+            <label for="numOfShots">Number of Shots Consumed</label>
+            <input type="number"  id="numOfShots" >
+        </div>
+        <div class="cellish holder" id="shots">
+
+            <img src="img/giddy-up.png" height="80" width="70"/></div>
+            Notice: One shot of liquor has 0.60 oz of alcohol.
+    </div>
+
+    <div class="tablish">
+        <div class="cellish">
+            <div>
+                <label for="weight">Your Weight in Pounds</label>
+                <input type="number"  id="weight" >
+            </div>
+
+
+            <div>
+                <label for="hours">Hours Since Your First Drink</label>
+                <input type="number"  id="hours" >
+            </div>
+
+        </div>
+        <div class="cellish" id="output"></div>
+        </div>
+<div class="tablish">
+
+
+</div>
+<div>
+    <p id="bacOutput"></p>
+</div>
+
+<p>
+        <button id="calcMyBac"> Calculate My BAC</button>
+</p>
+
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+
+<script src="code.js"></script>
+
+</body>
+</html>
+

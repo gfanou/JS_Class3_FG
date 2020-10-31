@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02f36600-0c9b-4b8b-880e-223585e98ac2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="JS_Template" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jeaVgxyyJfkHhstoGoBvPYaQnO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Georges F\WebstormProjects\BAC_FG" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02f36600-0c9b-4b8b-880e-223585e98ac2" name="Default Changelist" comment="" />
+      <created>1604167036404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604167036404</updated>
+      <workItem from="1604167037513" duration="18431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604170883534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1604170883534" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1604185482389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604185482389" />
+    <state x="465" y="261" key="Github.CreateGistDialog" timestamp="1604185422274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="465" y="261" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1604185422274" />
+    <state x="520" y="239" width="441" height="203" key="Github.ShareDialog" timestamp="1604185298898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="239" width="441" height="203" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1604185298898" />
+  </component>
+</project>

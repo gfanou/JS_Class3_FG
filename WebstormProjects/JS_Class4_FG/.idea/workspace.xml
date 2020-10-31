@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544d329f-f087-4bd6-a259-da5b547d26e1" name="Default Changelist" comment="commit in it">
+    <list default="true" id="544d329f-f087-4bd6-a259-da5b547d26e1" name="Default Changelist" comment="initial commit">
       <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/InputActivity.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/InputActivity.csv" afterDir="false" />
       <change beforePath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ProcessLog.csv" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Lenovo/ImController/PluginData/LenovoDeviceMetricsPlugin/AppUsageMonitor/ProcessLog.csv" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/edge_shutdown_ms.txt" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/edge_shutdown_ms.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603985915927</updated>
-      <workItem from="1603985917000" duration="27793000" />
+      <workItem from="1603985917000" duration="28257000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1604130183419</created>
@@ -93,7 +94,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604134092147</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="initial commit">
+      <created>1604134411175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604134411175</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initial commit">
+      <created>1604134479142</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604134479142</updated>
+    </task>
+    <task id="LOCAL-00009" summary="initial commit">
+      <created>1604134577245</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604134577245</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +124,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="commit in it" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit in it" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="282" y="108" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1603987798848">
@@ -129,14 +152,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603987327033" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604134128850">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604134604214">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604134128850" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604134604214" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604131346342">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1604131346342" />
+    <state x="441" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604134272043">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="441" y="242" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1604134272043" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603987146743">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

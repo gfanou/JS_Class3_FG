@@ -21,7 +21,7 @@ $(document).ready(
             // Number of days late for book
             var numberDayLateBook = parseInt($("#numberDayLateBook").val());
 
-            // Late fee for DVD per day.
+            // Late fee for DVD per day
             var lateFeeDVD = 0.50;
 
             // Number of DVD
